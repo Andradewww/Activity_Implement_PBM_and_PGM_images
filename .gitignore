@@ -1,2 +1,5 @@
 Redimensionamento/Imagens/media/06_8K_interpolada.pgm
 Redimensionamento/Imagens/simples/06_8K.pgm
+
+__pycache__/
+*.pyc
